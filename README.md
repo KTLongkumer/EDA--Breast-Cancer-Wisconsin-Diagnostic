@@ -47,13 +47,11 @@ Clone the repository and navigate to the project directory:
 
 bash
 Copy code
-git clone https://github.com/yourusername/breast-cancer-wisconsin-eda.git
-cd breast-cancer-wisconsin-eda
 Run the Jupyter Notebook to explore the EDA:
 
 bash
 Copy code
-jupyter notebook Breast_Cancer_Wisconsin_EDA.ipynb
+jupyter notebook 
 Analysis Summary
 Data Cleaning
 Verified no missing values in the dataset.
